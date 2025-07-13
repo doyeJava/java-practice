@@ -1,11 +1,14 @@
 # java-practice - Day 1
 ## 오늘 한 일
 -BMI 계산기 실습
+
 -조건문/ Scanner 복습
 
 ## 코드 목록
 -[BMI 계산기](./Day01/BMI.java)
+
 -[홀짝 판별기](./Day01/EvenOdd.java)
+
 -[나이 판별기](./Day01/AgeCheck.java)
 
 ## 배운점
