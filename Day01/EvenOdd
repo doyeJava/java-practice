@@ -1,5 +1,3 @@
-package doye.java.agecheck;
-
 import java.util.Scanner;
 
 public class EvenOdd {
