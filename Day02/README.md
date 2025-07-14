@@ -7,10 +7,10 @@
 - 홀짝 판별기 구현
 
 ## 📁 코드 목록
-- [구구단 출력기 (Gugudan.java)](./Day02/Gugudan.java)
-- [1~100 합 계산기 (Sum100.java)](./Day02/Sum100.java)
-- [입력값까지 합 계산기 (SumToN.java)](./Day02/SumToN.java)
-- [홀짝 판별기 (OddEvenPrinter.java)](./Day02/OddEvenPrinter.java)
+- [구구단 출력기 (Gugudan.java)](Day02/Gugudan.java)
+- [1~100 합 계산기 (Sum100.java)](Day02/Sum100.java)
+- [입력값까지 합 계산기 (SumToN.java)](Day02/SumToN.java)
+- [홀짝 판별기 (OddEvenPrinter.java)](Day02/OddEvenPrinter.java)
 
 ## ✨ 배운 점
 - `for` 반복문은 횟수가 명확할 때 사용, `while`은 조건 기반일 때 더 자연스러움
